@@ -1,7 +1,6 @@
-title: Liver Cirrhosis Stage Prediction
-emoji: 🩺
-colorFrom: blue
-colorTo: indigo
+Liver Cirrhosis Stage Prediction
+🩺
+
 sdk: streamlit
 sdk_version: 1.22.0
 app_file: app.py
